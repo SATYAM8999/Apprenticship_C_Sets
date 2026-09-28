@@ -14,4 +14,4 @@ Problem Solving: Solved logical, mathematical, and programming problems.
 Hands-on Practice: Gained practical experience through coding exercises.
 Learning Progress: Improved my programming logic and C programming skills.
 Apprenticeship Work: All programs were developed as part of my apprenticeship training.
-Repository Purpose: Showcases my C programming practice, learning, and technical work.
+
